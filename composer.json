@@ -1,5 +1,5 @@
 {
-  "name": "anahkiasen/flickering",
+  "name": "WebDevTmas/flickering",
   "description": "A modern interface for the Flickr API",
   "license": "MIT",
   "keywords": [
@@ -12,6 +12,10 @@
     {
       "name": "Anahkiasen",
       "email": "ehtnam6@gmail.com"
+    },
+    {
+      "name": "Thomas Vanderhaeghen",
+      "email": "thomas.vanderhaeghen@hotmail.com"
     }
   ],
   "require": {
